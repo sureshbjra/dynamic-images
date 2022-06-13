@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dynamic-images/static/css/main.1fa1804a.css",
+    "main.js": "/dynamic-images/static/js/main.559fa134.js",
+    "index.html": "/dynamic-images/index.html",
+    "main.1fa1804a.css.map": "/dynamic-images/static/css/main.1fa1804a.css.map",
+    "main.559fa134.js.map": "/dynamic-images/static/js/main.559fa134.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fa1804a.css",
+    "static/js/main.559fa134.js"
+  ]
+}
